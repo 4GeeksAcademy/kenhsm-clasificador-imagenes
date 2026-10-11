@@ -1,6 +1,7 @@
 __pycache__
 .env
-.learndata/raw/
+.venv/
+data/raw/
 data/processed/
 models/*.keras
 models/*.h5
